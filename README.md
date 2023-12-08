@@ -1,4 +1,4 @@
-# WebdriverIO
+# WebdriverIO Assingment
 This repository contains the WebDriverIO test scripts for automating scenarios on eBay.com.
 
 - The solution can be find in the file "ebaytest.js" under the test/specs folder
