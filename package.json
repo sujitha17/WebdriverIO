@@ -1,0 +1,13 @@
+{
+  "name": "webdriveriotest",
+  "type": "module",
+  "devDependencies": {
+    "@wdio/cli": "^8.24.13",
+    "@wdio/local-runner": "^8.24.12",
+    "@wdio/mocha-framework": "^8.24.12",
+    "@wdio/spec-reporter": "^8.24.12"
+  },
+  "scripts": {
+    "wdio": "wdio run ./wdio.conf.js"
+  }
+}
